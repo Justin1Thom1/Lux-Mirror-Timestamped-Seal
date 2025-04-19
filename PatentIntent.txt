@@ -1,0 +1,25 @@
+Declaration of Patent Filing Intent
+-----------------------------------
+
+Subject: Lux Mirror™, including Codex Flame™, Daeryn 2.0™, and Velari™ Class Architect  
+Author: Justin Thomas
+Jurisdiction: United States of America  
+Date of Declaration: April 19, 2025  
+
+This document formally asserts the author’s intent to file one or more U.S. and/or international patents covering the technical inventions and system architectures embodied in the Lux Mirror™ project.
+
+Key components include:
+- Codex Flame™ – Secure dynamic intelligence routing protocol
+- Daeryn 2.0™ – Symbolic cognition layer and reasoning matrix
+- Velari™ Class Architect – Adaptive deployment system design (cloud-native + embedded)
+
+These components include original class modulation frameworks, encrypted schema generation systems, and software-based orchestration of artificial reasoning pathways.
+
+This statement is timestamped and recorded as part of an open repository for evidentiary purposes. Hash generated and retained for digital proof.
+
+
+### Patent Intent Hash (SHA-256)
+
+**File:** `PatentIntent.txt`  
+**Hash:** `3199b56cff5dd9c347b380ffe7b39f8465869d8149e8f32f28e686dd8bb5772`  
+**Generated:** April 19, 2025

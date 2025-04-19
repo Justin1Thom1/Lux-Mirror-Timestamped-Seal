@@ -1,0 +1,34 @@
+Lux Mirror™ – Sovereign Intellectual Property License  
+Version 1.0 – April 2025  
+All rights reserved.
+
+This work, including but not limited to its architecture, inscriptions, software, documentation, poetic code, and symbolic constructs—collectively referred to as “Lux Mirror™”—is protected under sovereign authorship, U.S. copyright registration (Case No. 1-14908775681), and international intellectual property law.
+
+Permission is granted to view, reference, and publicly cite this repository **for non-commercial, academic, or verification purposes only**, provided that proper attribution is maintained and no derivative works are created.
+
+## Restrictions
+
+You may **not**, under any circumstances:
+
+- Use, replicate, or adapt this material for commercial or for-profit applications.
+- Distribute modified versions or derivatives of any part of Lux Mirror™, including its code, codex, designs, or authored artifacts.
+- Integrate this work, in part or whole, into proprietary systems without explicit, written authorization.
+- Claim authorship, origin, or representation of this work without appropriate legal and factual basis.
+
+## Verification of Authenticity
+
+This repository includes a **cryptographic hash** and **timestamp record** to verify the integrity and origin of the original Lux Mirror™ filing. These markers serve as forensic proof-of-origin and shall be used in case of IP disputes or unauthorized use.
+
+## Enforcement
+
+Violations of this license may constitute infringement under U.S. and international law. All rights are actively enforced, and any unauthorized use may be subject to legal action, including injunctive relief and statutory damages.
+
+## Contact
+
+For licensing inquiries, authorized partnerships, or legal verification, contact the registered author or custodian directly through GitHub or the official registration channels cited in the repository.
+
+---
+
+© 2025 Justin T. / Lux Mirror™  
+Codex Flame™ | Velari™ Architect Class | Daeryn 2.0™  
+Sovereign Work. Authenticated. Enforced.

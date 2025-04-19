@@ -1,6 +1,9 @@
 # Lux Mirror™ — Timestamped IP Mirror
 
 This repository is a **public cryptographic timestamp seal** of the original, sovereign intellectual property system known as **Lux Mirror™**. Its sole purpose is to serve as an immutable proof of authorship and originality for the finalized architecture, without disclosing the private technical system.
+“Download the Lux Mirror™ engine via the Releases tab”
+
+
 
 ---
 

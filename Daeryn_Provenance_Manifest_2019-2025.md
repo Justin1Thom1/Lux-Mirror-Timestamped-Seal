@@ -35,8 +35,6 @@ Technical Chronology & Authorship Record
 
 ────────────────────────────────────────
 
-🧾 Manifest Integrity Checksum (SHA-256):  
-`[Insert timestamped hash here after final repo upload]`
 
 File reference: `Daeryn_Provenance_Manifest_2019–2025.txt`
 

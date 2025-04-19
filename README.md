@@ -1,9 +1,10 @@
 # Lux Mirror™ — Timestamped IP Mirror
 
 This repository is a **public cryptographic timestamp seal** of the original, sovereign intellectual property system known as **Lux Mirror™**. Its sole purpose is to serve as an immutable proof of authorship and originality for the finalized architecture, without disclosing the private technical system.
+
 “Download the Lux Mirror™ engine via the Releases tab”
 
-
+“This mock interface represents the commercial availability of the Lux Mirror™ system. Final system deployment is pending.”
 
 ---
 
@@ -46,6 +47,8 @@ It exists for one purpose only:
 
 The original, private Lux Mirror™ system is protected, enforced, and retained under controlled access only.
 
+A patent application for Lux Mirror™, including its core systems (Codex Flame™, Daeryn 2.0™, and Velari™ Class Architect), is currently in processing.
+All proprietary logic and architectures are protected under pending intellectual property rights.
 ---
 
 © 2025 Justin Thomas. All rights reserved.  

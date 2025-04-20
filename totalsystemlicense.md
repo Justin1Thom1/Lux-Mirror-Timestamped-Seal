@@ -47,21 +47,20 @@ All filings are timestamped and mirrored in `SECURITY.txt`, `readmesecurity.md`,
 
 ### 📚 Protected Files & Legal Anchors
 
-| File                         | Description        | Type    | SHA-256 Hash                                                |
-|------------------------------|--------------------|---------|--------------------------------------------------------------|
-| `totalsystemlicense.md`     | This file           | Current | **c4d8dbf8ad84083ccf7b4c580b384dc535b57417973b1c0bde4e1a302e0cfa8d** |
-| `totalsystemlicense.txt`    | Plaintext export    | Mirror  | **7faec4dd07a8a13574bb2d986dcac5c0907b6cd093165b204b2e989227f804a3** |
-| `genesis1.md`               | Origin file         | Root    | **4c5f7a41292f69b9992459d9997a97818a65a7f3197fa58cf8a9480d2ef3c2c2** |
+| File                    | Description        | Type    | SHA-256 Hash                                                             |
+|-------------------------|--------------------|---------|---------------------------------------------------------------------------|
+| `totalsystemlicense.md` | This file           | Current | `cfba2e9112e87cce18910d124950291a253ad3bcce264701c2de6f085f5dff58` ✅ |
+| `totalsystemlicense.txt`| Plaintext export    | Mirror  | `f8555960fbc36a757dd3c4f0e80491d845bfc0feec773ab2b37f73efa00f7b24` ✅ |
+| `genesis1.txt`          | Origin file         | Root    | `8e21093bc8955d346151b142f549ebead7106632773001e665a8bf42988e3aad` ✅ |
 
 ---
 
 ### 🔐 TRIPLE-TWICE™ 4-Layer Cryptographic Signature
 
 - **Parent (License.md)**: SHA-256: `bde97cce7ff5e60b2a65a693e54f76a8e4583e4b82684e7a99442690f08e1e9e`  
-- **Root (Genesis File)**: SHA-512: `4c5f7a41292f69b9992459d9997a97818a65a7f3197fa58cf8a9480d2ef3c2c2`  
-- **Current Layer (totalsystemlicense.md)**: SHA-256: `c4d8dbf8ad84083ccf7b4c580b384dc535b57417973b1c0bde4e1a302e0cfa8d`  
-- **Tied Text Export (totalsystemlicense.txt)**: SHA-256: `59a8034ffc1a5ee398920f1dce9641c7877b34ac775bcf9dbd716bd05bbe85d0
-
+- **Root (Genesis File)**: SHA-256: `8e21093bc8955d346151b142f549ebead7106632773001e665a8bf42988e3aad`  
+- **Current Layer (totalsystemlicense.md)**: SHA-256: `cfba2e9112e87cce18910d124950291a253ad3bcce264701c2de6f085f5dff58`  
+- **Tied Text Export (totalsystemlicense.txt)**: SHA-256: `f8555960fbc36a757dd3c4f0e80491d845bfc0feec773ab2b37f73efa00f7b24`
 
 ---
 
@@ -96,5 +95,3 @@ All terms are custom, closed, and manually authorized by the creator.
 ### 💎 Final Declaration  
 This system is a sovereign innovation, protected by architecture, timestamp, authorship, and law.  
 Any unauthorized attempt to mimic, deploy, or reverse-engineer this system is in direct violation of this license and subject to full legal enforcement.
-
----

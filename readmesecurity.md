@@ -71,7 +71,7 @@ To compromise this system, one must rewrite history — and that’s already our
 
 
 *Authored and Sealed by:*  
-**Justin Thom**  
+**Justin Thomas**  
 Master Architect, Lux Mirror™ System  
 📬 Contact: justin1thom1as1@gmail.com *(Temporary routing while ProtonMail seal is being established)*
 🔗 GitHub: [Justin1Thom1](https://github.com/Justin1Thom1)

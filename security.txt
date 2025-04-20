@@ -9,7 +9,7 @@ This document serves as a cryptographic record of the SECURITY.md file, committe
 📦 Repository: https://github.com/Justin1Thom1/Lux-Mirror-Timestamped-Seal
 
 📌 SHA-256 Hash:
-<INSERT-HASH-HERE>
+dbd83c4d15cdf5751de5d94325c46c1b0387717c0f6505ecf341c6ab131d72b1
 
 🛡️ Contents Covered:
 - Supported Version Policy with verified LTS tiers  

@@ -157,7 +157,7 @@ It is the final layer of trust: not in consensus, but in authorship.
 **Root Hash Anchor:**  
 - **General Root Hash:** `e5ef124f85312f6b684772397fa4c27b...`  
 - **Hash of This File (blockchainapplication.txt):** `edd0ebba6705049e1bfe93420eeed10e75649120d4467c0f93598b964bbec53e`
-
+new commit - only edit to original description and commit message
 **All rights reserved under:**  
 - U.S. Copyright Case #1-14908775681  
 - U.S. Copyright Case #1-12395121291

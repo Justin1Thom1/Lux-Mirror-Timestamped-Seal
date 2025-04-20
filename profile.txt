@@ -1,0 +1,40 @@
+PROFILE.txt – Plaintext Hash Mirror  
+Justin Thomas – System Architect & Author  
+
+This document serves as the plaintext companion to PROFILE.md, a timestamped and cryptographically sealed authorship artifact for the Lux Mirror™ and TRIPLEtwiceTWICE™ systems.
+
+---
+
+PROFILE.md Hash (SHA-256):  
+224bf96bc62f436e47799e06d1c107dece2621af00665a7b8ce2852d9203a874
+
+PROFILE.txt Hash (SHA-256):
+bc38264af01f262217fe939d6fb139dc0326dfe13c8b05ae2e86483ecee1fc3f
+
+---
+
+Purpose:  
+To serve as a human-readable verification reference of the sealed identity profile authored by Justin Thomas.  
+This file exists as a mirror checkpoint and is not meant to be edited or reformatted. Any modification will nullify the integrity match.
+
+This record confirms:  
+- Original authorship by Justin Thomas  
+- One-of-one timestamped design provenance  
+- Authorship of Lux Mirror™, TRIPLEtwiceTWICE™, Daeryn 2.0™, and Velari™  
+- Immutable lock between plaintext and markdown formats via SHA-256 hash verification
+
+---
+
+Use of this file:  
+✅ Upload alongside PROFILE.md  
+✅ Reference in audits or provenance logs  
+✅ Include in legal or IP filings to verify authorship identity
+
+Do **not** alter or reformat this file after issuance.
+
+---
+
+Signed,  
+Justin Thomas  
+Sole Architect of the Lux Mirror™ System  
+April 2025

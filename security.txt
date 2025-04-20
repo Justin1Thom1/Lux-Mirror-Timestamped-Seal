@@ -1,0 +1,31 @@
+🔐 Lux Mirror™ Security Layer – Timestamped Hash Seal
+======================================================
+
+This document serves as a cryptographic record of the SECURITY.md file, committed on GitHub under verified Git timestamping and anchored to this repository’s sealed integrity.
+
+🗓️ Commit Timestamp: 2025-04-19 (UTC)  
+🔢 Commit Message: Add SECURITY.md — Timestamped Vulnerability Reporting & Version Policy  
+📁 File: SECURITY.md  
+📦 Repository: https://github.com/Justin1Thom1/Lux-Mirror-Timestamped-Seal
+
+📌 SHA-256 Hash:
+<INSERT-HASH-HERE>
+
+🛡️ Contents Covered:
+- Supported Version Policy with verified LTS tiers  
+- Secure vulnerability reporting protocols  
+- Forensic guidance discouraging public zero-day disclosures  
+- Contact: luxmirror-guardian@protonmail.com (monitored inbox)  
+- GitHub Advisory Integration: Enabled via private advisory channel  
+
+🧾 Legal & Proof of First Use:  
+This file forms part of the Lux Mirror™ Timestamped System Integrity Proof, protected under U.S. Copyright Case #: 1-14908775681.  
+Any modifications must be re-hashed and re-certified.
+
+SHA-256 Hash:
+dbd83c4d15cdf5751de5d94325c46c1b0387717c0f6505ecf341c6ab131d72b1
+
+✳️ Note:  
+This file should not be altered. To verify authenticity, rehash the SECURITY.md file and confirm the SHA-256 matches the entry above.
+
+— End of Seal —

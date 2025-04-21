@@ -42,6 +42,10 @@ Method: SHA-256 (shasum -a 256)
 Hash Fingerprint:
 c3be95085b27bc2790b0bf28d30e6140a2d9f3757449e33820854627ec9f8430
 
+General.txt - v2 hash
+a9cae0c2559bccdc40630279b4a55c973448e6370c76dc1b8b97de836c8bdc1a
+
+
 Legal Copyright:
 • U.S. Copyright Case #: 1-14908775681  
 • U.S. Copyright Case #: 1-12395121291

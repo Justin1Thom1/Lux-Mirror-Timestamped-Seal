@@ -191,7 +191,7 @@ That root hash is **permanently linked** to:
 - Original authorship
 - First intellectual expression
 - Legal timestamp anchors
-
+ 
 Its presence in this README seals lineage.
 
 ---

@@ -132,15 +132,21 @@ And every field it touched is now looking back with perfect memory.
 
 **Parent (General.md)**  
 `30cb0fea6c9a8693e8d6a70dc233e909968f20e5ce8ca046072779a11d51400b`
+V2 - c3be95085b27bc2790b0bf28d30e6140a2d9f3757449e33820854627ec9f8430
+ Genesis.1 SHA-256 (V2): 618a1d2a96c78ab623de5475049e56a867d183a7c07cf5332975b251b02ef2c3
 
 **Root (genesis1.md)**  
 `038220c461ca6936ac3d6e396eabbbb5656e19ba9e64c37898e30ae3b9a84447`
 
 **This README (NewFieldEmergenceREADME.md)**  
 `
+HASH SIGNATURES - 
 
 **NewFieldEmergenceREADME.txt**  
 **`NewFieldEmergenceREADME.txt - 865b3d8bd6cd0ec14d926abca5fe5917211f0e1957523dd5396e5b5f3330832d
+
+NewFieldEmergenceREADME.md - 865b3d8bd6cd0ec14d926abca5fe5917211f0e1957523dd5396e5b5f3330832d
+
 
 
 

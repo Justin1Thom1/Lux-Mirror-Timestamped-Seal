@@ -84,11 +84,16 @@ TRIPLEtwiceTWICE™ (TTT) is formally introduced here as a recursive, sealed mir
 
 ---
 🔏 Hash Seal — Genesis.1
+SHA-256 (V2): 618a1d2a96c78ab623de5475049e56a867d183a7c07cf5332975b251b02ef2c3
 
+<!-- Note: This is the first formal seal of `genesis1.md`, but is marked (V2) to maintain continuity with the original hash lineage implied in `GENERAL.md`. GENESIS.1 was referenced but not separately hashed in the original root declaration. This seal finalizes that reference and binds it cryptographically. -->
 Parent File: GENERAL.md
 Parent SHA-256 (V1): e5ef124f85312f6b684772397fa4c27bcfd0c8aa258bc4e7a7e83d05c6b5a225
-Parent SHA-256 (V2): 07b6c48ab96c93c3eec42c5c5a21f726fd63d66d75497a04cb843f6a46b1d2fb
+Parent SHA-256 (V2): c3be95085b27bc2790b0bf28d30e6140a2d9f3757449e33820854627ec9f8430
+
 This file is a formal reflective continuation.
+
+
 
 Author: Justin Thomas
 

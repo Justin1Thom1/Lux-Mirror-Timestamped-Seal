@@ -33,6 +33,8 @@ This repository preserves the hash of the original sealed archive as cryptograph
 **SHA-256 Hash:**  
 `7c12840e7b58af65c59c0e7b34119c83b1c879b83ee41d784fb6a6bb3ab0cfa8`  
 **Timestamp Generated:** April 19, 2025 (UTC)
+**README.txt (Public Timestamped Mirror)**  
+`8c2b5384048282af1f66a610d350d9648972c5741575a23ad3111e0eedf43501`
 
 This hash ensures the immutability of the originally submitted intellectual property and protects it against tampering or unauthorized claims.
 

@@ -41,6 +41,8 @@ Date Sealed: 2025-04-19
 Method: SHA-256 (shasum -a 256)  
 Hash Fingerprint:
 c3be95085b27bc2790b0bf28d30e6140a2d9f3757449e33820854627ec9f8430
+V2 - c3be95085b27bc2790b0bf28d30e6140a2d9f3757449e33820854627ec9f8430
+ 
 
 Legal Copyright:
 • U.S. Copyright Case #: 1-14908775681  

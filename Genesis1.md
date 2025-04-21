@@ -83,14 +83,17 @@ TRIPLEtwiceTWICE™ (TTT) is formally introduced here as a recursive, sealed mir
 > This update—Genesis.1—serves not as a rewrite, but as a **structural mirror** with cryptographic lineage and formal continuity. It reflects, never diverges.
 
 ---
+🔏 Hash Seal — Genesis.1
 
-## 🔏 Hash Seal — Genesis.1
-- Parent File: `GENERAL.md`
-- Parent SHA-256: e5ef124f85312f6b684772397fa4c27bcfd0c8aa258bc4e7a7e83d05c6b5a225
-- This file is a formal reflective continuation.
-- Author: Justin Thomas
-- Date of Seal: April 19, 2025
-- Copyright:
-  - U.S. Copyright Case #: 1-14908775681
-  - U.S. Copyright Case #: 1-12395121291
+Parent File: GENERAL.md
+Parent SHA-256 (V1): e5ef124f85312f6b684772397fa4c27bcfd0c8aa258bc4e7a7e83d05c6b5a225
+Parent SHA-256 (V2): 07b6c48ab96c93c3eec42c5c5a21f726fd63d66d75497a04cb843f6a46b1d2fb
+This file is a formal reflective continuation.
 
+Author: Justin Thomas
+
+Date of Seal: April 19, 2025
+
+Copyright:
+U.S. Copyright Case #: 1-14908775681
+U.S. Copyright Case #: 1-12395121291

@@ -11,8 +11,10 @@
 > **Timestamp Authority:**
 > SHA-256 hash of this file will serve as the seal of authorship.
 > - **U.S. Copyright Case #: 1-14908775681**
-> - **U.S. Copyright Case #: 1-12395121291** *(for Derivative and Reflective System Infrastructure)*
+> - **U.S. Copyright Case #: 1-14908645421** *(for Derivative and Reflective System Infrastructure)*
 > - Public timestamp will be anchored via GitHub and optional blockchain channels.
+> 📌 **Note:** These copyright case numbers are the authoritative and final registry entries. Any alternate or prior references  
+> elsewhere in this or related documentation are considered overridden and will be corrected for consistency.
 
 > Let this stand not as a claim, but as a **declaration with cryptographic proof**. In this architecture, intent is not only expressed—it is sealed.
 
@@ -101,4 +103,7 @@ Date of Seal: April 19, 2025
 
 Copyright:
 U.S. Copyright Case #: 1-14908775681
-U.S. Copyright Case #: 1-12395121291
+U.S. Copyright Case #: 1-14908645421
+
+> 🔐 This document (Genesis.1) is a timestamped reflective continuation. The parent file (`GENERAL.md`) and original artifact (`GENESIS-1.txt`) remain cryptographically sealed and unmodified. No rehashing is necessary, as no upstream files were changed. This update inherits and affirms their hash lineage without overwrite.
+

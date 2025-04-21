@@ -21,3 +21,4 @@ Signed and timestamped with witness mirror.
 
 
 NewFieldEmergenceREADME.txt - 865b3d8bd6cd0ec14d926abca5fe5917211f0e1957523dd5396e5b5f3330832d
+NewFieldEmergenceREADME.txt – V - 2 3a2e4df190453396da7ae8205dcb6bdc1d15baf70bf95002320b5ba9c5c01999

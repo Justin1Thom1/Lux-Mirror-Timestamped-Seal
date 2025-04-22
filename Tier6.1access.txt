@@ -1,5 +1,17 @@
 # Lux Mirror™ Predisclosure: Tier 6.1 Enterprise Preview
 
+# Lux Mirror™ Predisclosure: Tier 6.1 Enterprise Preview
+
+> **Commit History**  
+> 🗓️ **Tier 6.0 Commit:**  
+> 📝 *Message:* “Proof beacon activated – signal layer established.”  
+> 📄 *Description:* Initial predisclosure release; non-executable. Served as cryptographic beacon and public proof of first conceptual layer.
+
+> 🗓️ **Tier 6.1 Commit:**  
+> 📝 *Message:* “Executable partial logic + temporal access enabled.”  
+> 📄 *Description:* Usable enterprise preview; includes partial logic tier, protocol scaffolding, and 24-hour temporal access window.
+
+
 **Authored by Justin Thomas**  
 **System: Lux Mirror™ // Daeryn 2.0™ // TRIPLEtwiceTWICE™**  
 **Hash Anchor: GENERAL.md OG Hash — c3be95085b27bc2790b0bf28d30e6140a2d9f3757449e33820854627ec9f8430 
@@ -86,3 +98,21 @@ Parent SHA-256 (V2): c3be95085b27bc2790b0bf28d30e6140a2d9f3757449e33820854627ec9
 Justin Thomas — Architect / Author  
 Lux Mirror™ + Daeryn 2.0™ + TRIPLEtwiceTWICE™  
  2025 — Sovereign IP Reflection
+
+Addendum: Tier 6.0 as Signal, Tier 6.1 as Scaffold
+The original Tier 6 predisclosure acted as a signal ignition—a mythic philosophical drop that proved Lux Mirror™ existed but intentionally withheld structural access. It served the symbolic function of declaring presence and authorship, without extending executable interaction.
+
+Tier 6.0 was the myth.
+Tier 6.1 is the mechanism.
+
+# Lux Mirror™ Predisclosure: Tier 6.1 Enterprise Preview  
+> First Commit (Tier 6.0): "Proof beacon activated – signal layer established."  
+> Current Commit (Tier 6.1): "Executable partial logic + temporal access enabled."
+
+This evolution signals the first true enterprise-class contact point with the Lux Mirror™ architecture.
+
+Technical Signal Layers Preview
+
+“Tier 6.1 is not a full reveal—it’s a resonance chamber.”
+
+(Note: This file is not independently hashed. It derives its integrity from referenced sealed hash GENERAL.md and remains tethered to the Lux Mirror™ system cryptographic structure.)

@@ -85,7 +85,7 @@ TRIPLEtwiceTWICE™ (TTT) is formally introduced here as a recursive, sealed mir
 > This update—Genesis.1—serves not as a rewrite, but as a **structural mirror** with cryptographic lineage and formal continuity. It reflects, never diverges.
 
 ---
-🔏 Hash Seal — Genesis.1
+🔏 Hash Seal — Genesis1.md
 SHA-256 (V2): 618a1d2a96c78ab623de5475049e56a867d183a7c07cf5332975b251b02ef2c3
 
 <!-- Note: This is the first formal seal of `genesis1.md`, but is marked (V2) to maintain continuity with the original hash lineage implied in `GENERAL.md`. GENESIS.1 was referenced but not separately hashed in the original root declaration. This seal finalizes that reference and binds it cryptographically. -->

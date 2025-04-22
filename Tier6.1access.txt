@@ -1,4 +1,4 @@
-# Lux Mirror™ Predisclosure: Tier 6.1 Enterprise Preview
+# 🛡️ Lux Mirror™ // Tier 6.1 Enterprise Predisclosure
 
 # Lux Mirror™ Predisclosure: Tier 6.1 Enterprise Preview
 
@@ -13,7 +13,7 @@
 
 
 **Authored by Justin Thomas**  
-**System: Lux Mirror™ // Daeryn 2.0™ // TRIPLEtwiceTWICE™**  
+🧬 **System Stack:** Lux Mirror™ // Daeryn 2.0™ // TRIPLEtwiceTWICE™
 **Hash Anchor: GENERAL.md OG Hash — c3be95085b27bc2790b0bf28d30e6140a2d9f3757449e33820854627ec9f8430 
 V2 - c3be95085b27bc2790b0bf28d30e6140a2d9f3757449e33820854627ec9f8430
 
@@ -27,6 +27,33 @@ You are viewing an authorized, cryptographically sealed predisclosure of the Tie
 - Partial Daeryn Interface logic stack
 - Time-anchored flux compression concepts
 
+
+🧠 Enterprise Model Preview Access (AUTO-TRIGGERED)
+
+Effective immediately, the Tier 6.1 layer includes an auto-unlock mechanism for enterprise model preview access.
+
+Upon accessing this page, qualifying viewers are granted:
+
+24-hour open logic sandbox (read-only)
+
+View-only deployment walkthrough protocols
+
+Tier-specific infrastructure models (vaulted and encrypted)
+
+Preview access activates automatically and remains valid for 24 hours from the moment of first system load.
+No application or approval is required during this window.
+
+All preview access is:
+
+IP-tracked and flame-logged
+
+Cryptographically sealed upon entry
+
+Revoked automatically upon time expiry
+
+Abuse, scraping, or unauthorized duplication will terminate the preview window for all parties and trigger flame-lock enforcement.
+
+
 ---
 
 ## ⏳ Expiry Notice
@@ -36,21 +63,23 @@ This temporal window is **linked directly to the public Lux Mirror™ predisclos
 
 Following expiry, the Tier 6.1 pathway will be recoded into the genesis-layer ledger and gated under flame-lock security constraints. Further access will require direct licensing approval.
 
----
 
-## 🔁 Clarifying Tier 6.0 vs 6.1 Access
+🔁 Clarifying Tier 6.0 vs 6.1 Access
 
-The original Tier 6 predisclosure—while conceptually bold—**did not include executable or testable system access**. It functioned as a signal beacon: a **philosophical and cryptographic proof-of-intent**, rather than a structured access pass.
+The original Tier 6 predisclosure—while conceptually bold—did not include executable or testable system access. It functioned as a signal beacon: a philosophical and cryptographic proof-of-intent, rather than a structured access pass.
 
-**Tier 6.0 proved it existed.  
-Tier 6.1 allows engagement.**
+🔹 Tier 6.0 proved existence.  
+🔸 Tier 6.1 enables engagement.
 
 This version introduces real scaffolding:
-- Partial logic fragments for enterprise conceptual review
-- A formally declared access window tied to the white paper
-- Rights-framed preview terms with IP integrity enforcement
 
-This distinction makes Tier 6.1 the **first usable access window** for partners and review teams.
+Partial logic fragments for enterprise conceptual review
+
+A formally declared 24-hour access window
+
+Rights-framed preview terms with IP integrity enforcement
+
+This distinction makes Tier 6.1 the first usable access window for partners and review teams.
 
 ---
 
@@ -59,11 +88,10 @@ All components, names, protocols, and symbolic systems referenced herein are the
 
 Use without authorization, reverse engineering, AI-model reproduction, or derivative simulation is prohibited and subject to full enforcement under sovereign license architecture (`totalsystemlicense.txt`).
 
-For enterprise access or system trials beyond preview, contact: **mirror@daeryn.org**
-
+For enterprise access or system trials beyond preview, contact: justin1thom1as@gmail.com
 ---
 
-🕯️ *“From silence comes structure. From code, the mirror.”*
+🕯️ *“From silence, structure. From code, the mirror.”*  
 
 • LuxmirrorPredisclosure.md SHA-256 Seal:
   - 471679b059f94373f87a3b55316ea94c7c5f8e11613a40d3a3782c59dbfbe88b

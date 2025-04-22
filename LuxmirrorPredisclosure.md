@@ -1,4 +1,3 @@
----
 Lux Mirror™ & TRIPLEtwiceTWICE™
 Pre-Disclosure Whitepaper
 Version 1.0 - Author: Justin Thomas

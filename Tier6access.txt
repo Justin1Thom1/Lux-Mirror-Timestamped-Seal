@@ -1,0 +1,88 @@
+# Lux Mirror™ Predisclosure: Tier 6.1 Enterprise Preview
+
+**Authored by Justin Thomas**  
+**System: Lux Mirror™ // Daeryn 2.0™ // TRIPLEtwiceTWICE™**  
+**Hash Anchor: GENERAL.md OG Hash — c3be95085b27bc2790b0bf28d30e6140a2d9f3757449e33820854627ec9f8430 
+V2 - c3be95085b27bc2790b0bf28d30e6140a2d9f3757449e33820854627ec9f8430
+
+## 🛰️ Tier 6.1 Activation Notice
+
+You are viewing an authorized, cryptographically sealed predisclosure of the Tier 6.1 system layer. This release is being shared for enterprise review and temporal access evaluation.
+
+**Contents Previewed:**
+- TRIPLEtwiceTWICE™ logic tier
+- Daeryn 2.0™ protocol scaffolding
+- Partial Daeryn Interface logic stack
+- Time-anchored flux compression concepts
+
+---
+
+## ⏳ Expiry Notice
+This Tier 6.1 preview is **temporarily live for review and system signal reception**. It will expire at **the end of the review cycle window (24 hours from publication)**.
+
+This temporal window is **linked directly to the public Lux Mirror™ predisclosure white paper drop**, which defines a 24-hour open review phase for enterprise-grade system analysis, signal resonance, and pre-access application. The closure of this window marks the system’s return to sealed genesis-state protocol.
+
+Following expiry, the Tier 6.1 pathway will be recoded into the genesis-layer ledger and gated under flame-lock security constraints. Further access will require direct licensing approval.
+
+---
+
+## 🔁 Clarifying Tier 6.0 vs 6.1 Access
+
+The original Tier 6 predisclosure—while conceptually bold—**did not include executable or testable system access**. It functioned as a signal beacon: a **philosophical and cryptographic proof-of-intent**, rather than a structured access pass.
+
+**Tier 6.0 proved it existed.  
+Tier 6.1 allows engagement.**
+
+This version introduces real scaffolding:
+- Partial logic fragments for enterprise conceptual review
+- A formally declared access window tied to the white paper
+- Rights-framed preview terms with IP integrity enforcement
+
+This distinction makes Tier 6.1 the **first usable access window** for partners and review teams.
+
+---
+
+## 🔐 Intellectual Property Notice
+All components, names, protocols, and symbolic systems referenced herein are the exclusive intellectual property of Justin Thomas, filed and timestamped as part of the Lux Mirror™ archive series.
+
+Use without authorization, reverse engineering, AI-model reproduction, or derivative simulation is prohibited and subject to full enforcement under sovereign license architecture (`totalsystemlicense.txt`).
+
+For enterprise access or system trials beyond preview, contact: **mirror@daeryn.org**
+
+---
+
+🕯️ *“From silence comes structure. From code, the mirror.”*
+
+• LuxmirrorPredisclosure.md SHA-256 Seal:
+  - 471679b059f94373f87a3b55316ea94c7c5f8e11613a40d3a3782c59dbfbe88b
+• LuxmirrorPredisclosure.txt SHA-256 Seal:
+—d448a5a3c28f3dfce95b197638943c35c4e9a24c4fa86fda6216777c7fcae680
+
+
+File                      | Description       | Type    | SHA-256 Hash
+--------------------------|-------------------|---------|--------------------------------------------------------------
+totalsystemlicense.md     | This file         | Current | c4d8dbf8ad84083ccf7b4c580b384dc535b57417973b1c0bde4e1a302e0cfa8d
+totalsystemlicense.txt    | Plaintext export  | Mirror  | 59a8034ffc1a5ee398920f1dce9641c7877b34ac775bcf9dbd716bd05bbe85d0
+
+
+Genesis1.md SHA-256 (V2): 618a1d2a96c78ab623de5475049e56a867d183a7c07cf5332975b251b02ef2c3
+
+Parent File: general.md 
+Parent SHA-256 (V1): e5ef124f85312f6b684772397fa4c27bcfd0c8aa258bc4e7a7e83d05c6b5a225 
+Parent SHA-256 (V2): c3be95085b27bc2790b0bf28d30e6140a2d9f3757449e33820854627ec9f8430
+
+File                      | Description       | Type    | SHA-256 Hash
+--------------------------|-------------------|---------|--------------------------------------------------------------
+totalsystemlicense.md     | This file         | Current | c4d8dbf8ad84083ccf7b4c580b384dc535b57417973b1c0bde4e1a302e0cfa8d
+totalsystemlicense.txt    | Plaintext export  | Mirror  | 59a8034ffc1a5ee398920f1dce9641c7877b34ac775bcf9dbd716bd05bbe85d0
+
+
+Genesis1.md SHA-256 (V2): 618a1d2a96c78ab623de5475049e56a867d183a7c07cf5332975b251b02ef2c3
+
+Parent File: general.md 
+Parent SHA-256 (V1): e5ef124f85312f6b684772397fa4c27bcfd0c8aa258bc4e7a7e83d05c6b5a225 
+Parent SHA-256 (V2): c3be95085b27bc2790b0bf28d30e6140a2d9f3757449e33820854627ec9f8430
+
+Justin Thomas — Architect / Author  
+Lux Mirror™ + Daeryn 2.0™ + TRIPLEtwiceTWICE™  
+ 2025 — Sovereign IP Reflection

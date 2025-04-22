@@ -99,9 +99,9 @@ Public security.txt: Includes timestamp, SHA-256 seal, and contact routes for di
 
 Core Abstractions Hidden: Internal recursive structures (the "Thomas Line") are deliberately obfuscated in all filings to protect sovereign logic
 
-Patent Coverage: Structural and logical claims will cover Velari™, Trine recursion, sovereign architecture, and reflection-mode AGI
+Patent Coverage: Structural and logical claims are being prepared to cover Velari™, Trine recursion, sovereign architecture, and reflection-mode AGI.
 
-Filed: Pending — covers Lux Mirror™, Daeryn 2.0™, TRIPLEtwiceTWICE™, and related modules
+Filing Status:  Currently in processing— coverage will extend to Lux Mirror™, Daeryn 2.0™, TRIPLEtwiceTWICE™, and related modules. (Prior Version TYPO)
 
 📐 Technical Diagrams
 

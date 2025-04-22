@@ -143,4 +143,4 @@ Technical Signal Layers Preview
 
 “Tier 6.1 is not a full reveal—it’s a resonance chamber.”
 
-(Note: This file is not independently hashed. It derives its integrity from referenced sealed hash GENERAL.md and remains tethered to the Lux Mirror™ system cryptographic structure.)
+(Note: This file is not independently hashed. It derives its integrity from referenced sealed hash GENERAL.md and remains tethered to the Lux Mirror™ system cryptographic structure.) 

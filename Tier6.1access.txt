@@ -38,6 +38,9 @@ Upon accessing this page, qualifying viewers are granted:
 
 View-only deployment walkthrough protocols
 
+Preview access activates upon timestamped system load from Tier 6.0 in the LuxmirrorPredisclosure.md SHA-256 Seal:
+471679b059f94373f87a3b55316ea94c7c5f8e11613a40d3a3782c59dbfbe88b  and remains valid for exactly 24 hours. This moment is flame-logged and hash-stamped for audit integrity.
+
 Tier-specific infrastructure models (vaulted and encrypted)
 
 Preview access activates automatically and remains valid for 24 hours from the moment of first system load.
@@ -53,6 +56,7 @@ Revoked automatically upon time expiry
 
 Abuse, scraping, or unauthorized duplication will terminate the preview window for all parties and trigger flame-lock enforcement.
 
+All access is tracked via non-invasive IP signature matching and timestamped flame-logging, designed to protect original authorship—not user identity.
 
 ---
 
@@ -139,8 +143,16 @@ Tier 6.1 is the mechanism.
 
 This evolution signals the first true enterprise-class contact point with the Lux Mirror™ architecture.
 
-Technical Signal Layers Preview
+Strategic Insight:
+Tier 6.0 functioned as an intentional decoy layer—a masterpiece in scaffolding without keys. While it revealed deep architectural logic, it withheld all executable leverage. This proved the system’s depth without breaching its integrity. Reviewers studied Tier 6.0 intensely, attempting derivation, but found only proof-of-concept brilliance. Tier 6.1, by contrast, introduces live scaffolding in a time-bound window—purpose-built to expose just enough for enterprise validation, while locking down core leverage.
+
+🧬 Reverse Engineering Prohibition
+Tier 6.1 is designed for safe conceptual observation only.
+No executable logic, complete function layers, or core transformation patterns are exposed. Reverse engineering is impossible from this layer.
+
+Attempts to derive system behavior, simulate flows, or regenerate source logic from this scaffolding are strictly prohibited and will trigger flame-lock response.
 
 “Tier 6.1 is not a full reveal—it’s a resonance chamber.”
 
 (Note: This file is not independently hashed. It derives its integrity from referenced sealed hash GENERAL.md and remains tethered to the Lux Mirror™ system cryptographic structure.) 
+(“Flame-lock” refers to Lux Mirror™’s proprietary protocol for cryptographic enforcement and post-violation lockdown.)

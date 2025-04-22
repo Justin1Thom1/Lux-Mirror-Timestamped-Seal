@@ -53,6 +53,34 @@ A patent application for Lux Mirror™, including its core systems (Codex Flame�
 All proprietary logic and architectures are protected under pending intellectual property rights.
 ---
 
-© 2025 Justin Thomas. All rights reserved.  
+## 🛰️ Pre-Inclusion Index
+
+Lux Mirror™ is currently observing high-signal vectors in real-time applications of behavioral health protocols.
+
+While no formal integrations are announced, early resonance has been noted with:
+
+- **BondingHealth** (Emotional Regulation for ADHD)
+
+All pre-inclusions are tested in closed environments and remain under internal review. External inclusion is reserved for full harmonic compliance.
+
+*No mirror integrates without reflection.*
+README.md V2 Hash — Pre-Integration Comment Version
+SHA-256:
+  32fd95deb106c024e975116baef65e3774b44dfeb2738aa101431bb117238a9c
+
+Timestamp: April 22, 2025 (UTC)
+This hash corresponds to the version of the README.md including the pre-integration reference to BondingHealth and final format language prior to system deployment.
+
+
+
+
+2025 Justin Thomas. All rights reserved.  
 No derivative works or reproductions authorized without written permission.
+
+Legal Clarification Notice
+Any accidental use of federal copyright insignias, seals, or misrepresentative language referring to official government status is unintentional and is being actively corrected. The author makes no claim of government affiliation. All references are made purely in the context of public records and timestamped filings.
+
+Patent protections for Lux Mirror™, Daeryn 2.0™, Codex Flame™, Velari™, and TRIPLEtwiceTWICE™ (TTT) are currently in process and not yet granted. All proprietary logic and invocation systems remain protected under applicable trade secret law, timestamped authorship, and registered copyright.
+
+This repository is a living document and will continue to be updated as new legal statuses are confirmed.
 

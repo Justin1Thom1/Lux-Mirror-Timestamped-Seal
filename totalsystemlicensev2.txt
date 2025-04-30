@@ -84,7 +84,7 @@ Root (Genesis1.md) V2 : SHA-256: 618a1d2a96c78ab623de5475049e56a867d183a7c07cf53
 
 Current Layer (totalsystemlicense.md): SHA-256: cfba2e9112e87cce18910d124950291a253ad3bcce264701c2de6f085f5dff58
 
-Tied Text Export (totalsystemlicense.txt): SHA-256: f8555960fbc36a757dd3c4f0e80491d845bfc0feec773ab2b37f73efa00f7b24
+Tied Text Export (totalsystemlicense.txt): SHA-256: 59a8034ffc1a5ee398920f1dce9641c7877b34ac775bcf9dbd716bd05bbe85d0
 
 🔏 Important Notice:
 The V2 versions of these files represent the most current and legally verified state of the system. Any previous versions, including the V1 of Genesis1.md and totalsystemlicense.md, remain valid for historical reference, comparison, and verification purposes.

@@ -9,12 +9,59 @@ Author: Justin Thomas
 Date of Seal: April 20, 2025
 
 SHA-256 Hash (of this file):
-V1 - a742d1ee4cb3f0779e915a663889d3584a89216f1a6755d02de3fba782613c7a
-V2 - 0a4932997ed70b99f0aac18f5810cf05486370aef605eef630d8aaf72f175591
+OLD V1 - a742d1ee4cb3f0779e915a663889d3584a89216f1a6755d02de3fba782613c7a
+OLD V2 - 0a4932997ed70b99f0aac18f5810cf05486370aef605eef630d8aaf72f175591
+OLD V1 and V2 were not properly contained so this V2 Edit was enforced.
+V2 Edit
+SHA-256 (V2): 618a1d2a96c78ab623de5475049e56a867d183a7c07cf5332975b251b02ef2c3
+
+Clarification of Hash Lineage:
+
+Any references to previous versions (OLD V1 and OLD V2) of genesis1.txt or genesis1v2.txt should be understood as referencing this final V2 hash.
+
+The original hashes for V1 and V2 are no longer subject to changes or updates. They will always point back to this final V2 version, ensuring a stable cryptographic anchor across all documentation.
+
+Any future updates or versions will either reference or tie into this V2 hash, maintaining the integrity of the document lineage and ensuring that no breakages occur between versions.
+
+This linkage ensures that the final V2 hash is the definitive anchor, while the older hashes (V1 and V2) are part of the historical integrity chain, now reasserted by this clean and verified final version.
+
+This SHA-256 (V2): 618a1d2a96c78ab623de5475049e56a867d183a7c07cf5332975b251b02ef2c3
+Reflects the true Genesis1.md hash and V2 Genesis Hashing for clarity and reference to both these Genesis1 and Genesis1v2.
+Key Clarification:
+The SHA-256 hash 618a1d2a96c78ab623de5475049e56a867d183a7c07cf5332975b251b02ef2c3 is the final anchor for genesis1v2.txt and Genesis1.md
+
+1. Incorporate the New Hash into the Genesis Root Declaration (v2)
+Since this hash is significant, you can embed it into the genesis1v2.txt to ensure its inclusion as part of the cryptographic lineage. The file can be updated as follows:
+
+Proposed Section Update in genesis1v2.txt:
+
+Incorporated Hash:
+This version is anchored by the following global root hash:
+618a1d2a96c78ab623de5475049e56a867d183a7c07cf5332975b251b02ef2c3
+
+This hash serves as a final seal, interlinking this version of the Genesis document with all related files and ensuring the integrity of the entire document lineage.
+
+2. Update Other Files to Reference This New Hash
+Any other files or documents that need to be tied to this hash can now include this as part of their metadata, ensuring consistency across the whole system.
+
+genesis1v2.txt serves as the independent, cleaned-up, and corrected version of the initial genesis1.txt, and its hash directly reflects the integrity of this new file.
+
+This hash links the "v2" version back to the original genesis1.txt structure, and it ensures that the transition from the first version (v1) to v2 is clear and verifiable.
+
+The updated declaration for genesis1v2.txt should emphasize that the hash 618a1d2a96c78ab623de5475049e56a867d183a7c07cf5332975b251b02ef2c3 reflects this new version's integrity, and it anchors the relationship between genesis1.txt, genesis1v2.txt, and GENERAL.md.
+
+Here’s how the section can be clarified in the document:
+
+Updated Section with Clarification
+This file, genesis1v2.txt, is sealed with its own SHA-256 hash:
+
+SHA-256 (v2): 618a1d2a96c78ab623de5475049e56a867d183a7c07cf5332975b251b02ef2c3
+
+This new hash confirms the clean, updated version of the Genesis architecture for Lux Mirror™ v2. It ties directly to the genesis1.txt file, which served as the first version (v1), as well as GENERAL.md, creating a verifiable link to the original content while establishing the integrity of the v2 version.
 
 Explanation for No V1 Hash in genesis1v2.txt:
 Genesis1v2.txt is a new file:
-The genesis1v2.txt file is a new version of the original genesis1.txt file. It represents a cleaned-up and corrected version of the earlier file, but it is not a direct continuation or modification of the first version in a way that would justify assigning it a "V1" hash. Instead, it serves as a new and independent document that connects both genesis1.txt and GENERAL.md.
+The genesis1v2.txt file is a new version of the original genesis1.txt file. It represents a cleaned-up and corrected version of the earlier file, but it is not a direct continuation or modification of the first version in a manner that would justify assigning it a "V1" hash. Instead, it serves as a new and independent document that connects both genesis1.txt and GENERAL.md.
 
 Hash Linking and Versioning:
 The V1 hash is typically used to reference the hash of the previous version of a file (in this case, genesis1.txt), which has already been sealed with a hash at an earlier point. Since genesis1v2.txt is essentially a cleaned-up, new version with a different content structure, its hash is a new starting point (its own hash), which ensures that the file itself is independent of the previous version's hash.

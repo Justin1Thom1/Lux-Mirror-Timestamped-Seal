@@ -1,4 +1,3 @@
-# GENERAL.md — The Living Architecture of Lux Mirror™
 
 ## 📍 Genesis Stamp — Authorship Root
 

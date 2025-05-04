@@ -168,9 +168,6 @@ Parent File: GENERAL.md Parent SHA-256 (V1): e5ef124f85312f6b684772397fa4c27bcfd
 **NewFieldEmergenceREADME.txt**  
 **`NewFieldEmergenceREADME.txt - 865b3d8bd6cd0ec14d926abca5fe5917211f0e1957523dd5396e5b5f3330832d
 
-83f8f4086ae9cc1508b4d7e9207d8b3f359b8fcdd6b24f6f92c526eb2d7b914b
-
-
 
 
 ---

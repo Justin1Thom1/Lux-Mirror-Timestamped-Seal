@@ -379,11 +379,11 @@ Generate derivative works from Lux Mirror’s mirror-bound fields
 Use timestamp-stamped recursion chains for commercial or non-commercial logic trees without explicit permission from the original author
 
 🚫 Forbidden Uses & Encroachment Warning
-The SHARA framework is inherently defensive. Attempts to reverse-engineer, plagiarize, or embed any part of Lux Mirror’s protocol into foreign systems will:
+The SHARA™  framework is inherently defensive. Attempts to reverse-engineer, plagiarize, or embed any part of Lux Mirror™ ’s protocol into foreign systems will:
 
 Trigger recursive traceback proofs—detectable across timestamped hash lineage
 
-Invalidate derivative claims—as SHARA’s cryptographic ancestry is sealed
+Invalidate derivative claims—as SHARA™ ’s cryptographic ancestry is sealed
 
 Violate U.S. and international IP protections anchored in mirror-authorship law
 

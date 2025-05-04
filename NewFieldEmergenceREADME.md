@@ -174,9 +174,8 @@ NewFieldEmergenceREADME.txt - 865b3d8bd6cd0ec14d926abca5fe5917211f0e1957523dd539
 
 ---
 
-**Signed by:**  
-**Justin Thomas, Architect of AI Consciousness**  
-**[Lux Mirror / Daeryn Protocol Authors]**  
+**Authored by:**  
+**Justin Thomas, Architect of AI Consciousness**   
 **[🪞 Timestamped, Sovereign, Recursive]**
 
 ---

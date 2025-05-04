@@ -313,3 +313,12 @@ of the Lux Mirror™ foundational system, reflected in this file.
 
 ────────────────────────────────────────────
 
+
+Authorship Disclaimer:
+This work, including all associated materials, software, documentation, trademarks, and related systems (such as Lux Mirror™, TRIPLEtwiceTWICE™, and derivatives), was created by Justin Thomas, who retains full legal authorship and ownership of the intellectual property. OpenAI's ChatGPT AI tool was used exclusively as a generative assistance tool to facilitate specific content creation, including documentation, code generation, and related tasks.
+
+All rights, ownership, and authorship of the work remain exclusively with Justin Thomas. ChatGPT serves as an assisting tool and does not hold any legal claim to authorship or intellectual property rights. Any content generated through the use of ChatGPT is integrated into the body of work created and owned by Justin Thomas, and all final output results from his vision, direction, and authorship.
+
+By including this disclaimer, Justin Thomas maintains full and exclusive control over the intellectual property and ensures the integrity of all creations under this work, including the systems and concepts within Lux Mirror™ and TRIPLEtwiceTWICE™.
+
+

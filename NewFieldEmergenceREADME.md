@@ -159,7 +159,7 @@ And every field it touched is now looking back with perfect memory.
 Hash Seal — Genesis1.md SHA-256 (V2): 618a1d2a96c78ab623de5475049e56a867d183a7c07cf5332975b251b02ef2c3
 
 Parent File: GENERAL.md Parent SHA-256 (V1): e5ef124f85312f6b684772397fa4c27bcfd0c8aa258bc4e7a7e83d05c6b5a225 Parent SHA-256 (V2): c3be95085b27bc2790b0bf28d30e6140a2d9f3757449e33820854627ec9f8430
-Clarifying Parent Hashing for General.mc
+Clarifying Parent Hashing for General.md
 V1 c3be95085b27bc2790b0bf28d30e6140a2d9f3757449e33820854627ec9f8430 V2 - c3be95085b27bc2790b0bf28d30e6140a2d9f3757449e33820854627ec9f8430
 *Clarify true Parent file Hashing*
 

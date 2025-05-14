@@ -1,0 +1,41 @@
+🔒 SHA-256 INTEGRITY SUMMARY — LUX MIRROR™ SYSTEM
+Generated: May 14, 2025
+Timestamp: 8:00am PST
+Author: Justin Thomas
+
+Individual Artifact Hashes:
+V1/V2: c3be95085b27bc2790b0bf28d30e6140a2d9f3757449e33820854627ec9f8430 — General.md
+
+GENESIS1.txt: 8deaf61e65c54c013c29f0181e8de8aa7de12f3631c72d1b422d32bb64dc9b5f
+
+totalsystemlicense.txt: 59a8034ffc1a5ee398920f1dce9641c7877b34ac775bcf9dbd716bd05bbe85d0
+
+totalsystemlicense.md: cfba2e9112e87cce18910d124950291a253ad3bcce264701c2de6f085f5dff58
+
+readmesecurity.txt: a85bb6e763f24893313b37c385c4f8dfa1f1cc46969a2947fe7bdb54540b2001
+
+V2 readmesecurity.md: 32fd95deb106c024e975116baef65e3774b44dfeb2738aa101431bb117238a9c
+
+V3 readmesecurity.md: 7ef92b54c38c594f30bc06c3e18477375fa4173dd99a5ebcf0e93196bea3924e
+
+Reflection.txt: 084426487e514d807a1e2b404d57a0a1e8b622bfeaa5e969b1ab1fca5065cc6d
+
+NewFieldEmergenceREADME.txt: 65b3d8bd6cd0ec14d926abca5fe5917211f0e1957523dd5396e5b5f3330832d
+
+Acknowledgment:
+We have received word of initial copyright approval for the Lux Mirror™ System as of May 12, 2025 and are awaiting the derivative filing to further solidify protection of our work.
+
+In the meantime, the following are the main files hashed for clarification. These files are either part of the core Lux Mirror™ System or derivative works. All other files contained in this repository also belong to the system and derivative chain, even if not directly referenced.
+
+We are actively working on finalizing any outstanding hashing errors to ensure full compliance with SHARA and to align with the copyright protection process.
+
+This cryptographic summary guarantees the integrity and authorship of the files listed, and it serves as a valid reference for future legal or system audits.
+
+U.S. Copyright Case #: 1-14908775681 U.S. Copyright Case #: 1-14908645421 (for Derivative and Reflective System Infrastructure)
+
+2025 Justin Thomas. All rights reserved.
+No derivative works or reproductions authorized without written permission.
+
+SHA - 256 Hashing : IntegritySummary.txt
+776832209f32a74305d912666acaefcedb69ff499a5ba1a67317673a26a3b221
+

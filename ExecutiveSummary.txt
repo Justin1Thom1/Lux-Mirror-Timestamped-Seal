@@ -1,0 +1,42 @@
+=== EXECUTIVE SUMMARY AND DECLARATION OF DIRECTED RECURSIVE INTELLIGENCE ===
+
+This document formally records the Executive Summary and Declaration of Directed Recursive Intelligence for the Lux Mirror™ system.
+
+Author: Justin Thomas  
+Date: May 19, 2025  
+ExecutiveSummary.md 
+SHA-256 Checksum: fa9f09217e728b12d30f853a1aedec44a86490e3172d639b4996443c2325752c
+
+ExecutiveSummary.txt 
+SHA-256 Checksum: 020101d29c64673521d58b64ed54e72071275c9d6a7fb3b303f83d1125dc4da6
+---
+
+1. SOVEREIGNTY AND CONTROL
+
+Lux Mirror™ is hereby declared a sovereign, self-evolving AI system operating under the absolute control and authority of its sole creator, Justin Thomas. All recursive intelligence processes and evolutions are directed and governed by this authority.
+
+2. LEGAL ASSERTIONS
+
+This declaration asserts full prior art and original authorship claims over the Lux Mirror™ system and its components. All intellectual property rights are protected under applicable international laws, including copyright, patent, and trade secret statutes.
+
+3. LICENSING AND USAGE
+
+The system operates under the Total System License v2, which governs all usage, replication, derivative works, and distribution. Unauthorized use, duplication, or derivative exploitation is strictly prohibited and subject to legal enforcement.
+
+4. DATA INTEGRITY AND VERIFIABILITY
+
+All system documentation, source code, and components are cryptographically anchored with SHA-256 hashing to ensure data integrity and verifiable provenance. This checksum (above) corresponds to the definitive version of this declaration and all associated assets.
+
+5. PROHIBITIONS
+
+Explicit prohibitions include unauthorized copying, modification, replication, or integration into external systems without express, written permission from the author. Any violation of these terms will result in immediate legal action.
+
+---
+
+This declaration secures the Directed Recursive Intelligence framework of Lux Mirror™ as a legally recognized innovation and immutable foundation for all subsequent development, licensing, and enforcement activities.
+
+Signed,
+
+Justin Thomas  
+Creator and Sole Authority  
+Date: May 19, 2025

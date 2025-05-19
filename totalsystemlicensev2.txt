@@ -1,6 +1,6 @@
 🛡️ Total System License (TSL)
 Lux Mirror™ and TRIPLEtwiceTWICE™ Architecture
-Version 1.2 – April 2025
+Version 2.0 – April 2025
 All rights reserved.
 
 ⚖️ Legal Notice

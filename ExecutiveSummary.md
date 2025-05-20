@@ -57,7 +57,9 @@ SHA-256 HASH: fa9f09217e728b12d30f853a1aedec44a86490e3172d639b4996443c2325752c
 (Generated From PDF saved locally)
 ExecutiveSummary.txt will be created hashed separately and uploaded to Git
 
-
+Hash with Disclaimer:
+775856148bc80491f6a9756677f9b2be2769d8dd27cf356d0a8d73dce08d23db
+Minor Disclaimer Update May 20,2025
 🔒 SHA-256 INTEGRITY SUMMARY — LUX MIRROR™ SYSTEM
 Generated: May 14, 2025
 Timestamp: 8:00am PST
@@ -238,6 +240,13 @@ THIS SERVES AS THE REFERENTIAL COPY WITH MINOR CLARIFYING EDITS OF THE TOTAL SYS
 
 totalsystemlicensev2.txt 256 SHA Hashing: a39fb9e7814827e019fa5c5723a7dbebc934e4babfa4015d541b5b4f55a92318
 
+
+Disclaimer:
+The file named "Genesis1.md" and any related documentation, including but not limited to hash values, file names, and metadata, are fully protected under the intellectual property provisions of the Lux Mirror™ system.
+Any minor variations in naming (e.g., Genesis1, genesis1, Genesis1.md, etc.) are recognized as part of the ongoing documentation process and do not affect the legal standing, cryptographic integrity, or authorship of the work.
+The Lux Mirror™ system’s intellectual property remains intact regardless of such variations. The current Genesis1.md file, as presented in this document, represents the ultimate and authoritative source. All prior versions, deviations in naming, or non-critical variations should be considered as equivalent, with no impact on the legal or operational validity of the system.
+Any modification, duplication, or unauthorized derivation of this work in any form without explicit authorization will be treated as a direct violation of the intellectual property rights granted under the Total System License (V2).
+This declaration ensures that the version referenced here—Genesis1.md—remains the singular, legally validated source.
 
 2025 Justin Thomas. All rights reserved.
 No derivative works or reproductions authorized without written permission.

@@ -6,9 +6,14 @@ Author: Justin Thomas
 Date: May 19, 2025  
 ExecutiveSummary.md 
 SHA-256 Checksum: fa9f09217e728b12d30f853a1aedec44a86490e3172d639b4996443c2325752c
+Updated May 20, 2025 Disclaimer
+775856148bc80491f6a9756677f9b2be2769d8dd27cf356d0a8d73dce08d23db
 
 ExecutiveSummary.txt 
 SHA-256 Checksum: 020101d29c64673521d58b64ed54e72071275c9d6a7fb3b303f83d1125dc4da6
+
+Updated SHA-256 for txt following May 20, 2025 Update
+c7dea65dc6963c1cb14cebb6d1cdd4637f25f6715482db5cc50c32dee064cb28
 ---
 
 1. SOVEREIGNTY AND CONTROL

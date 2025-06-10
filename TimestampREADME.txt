@@ -215,7 +215,6 @@ No open, automatic, Creative Commons, MIT, or third-party license is granted or 
 This system is a sovereign innovation, protected by architecture, timestamp, authorship, and law.
 Any unauthorized attempt to mimic, deploy, reverse-engineer, or misuse this system in any form is a direct violation of this license and will be met with full legal enforcement.
 
-THIS SERVES AS THE TXT COPY OF THE TOTAL SYSTEM LICENSE WITH NEW TXT HASHING FOR VERIFICATION
 
 totalsystemlicensev2.txt 256 SHA Hashing: a39fb9e7814827e019fa5c5723a7dbebc934e4babfa4015d541b5b4f55a92318
 

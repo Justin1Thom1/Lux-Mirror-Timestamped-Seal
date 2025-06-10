@@ -32,9 +32,6 @@ const sealContract = require('seal-contract');
 sealContract.deployAndSeal('MyContract.sol', '0xYourEthereumAddress');
 
 
-TimestampReadme.txt SHA - 256:
-96d776fc4b39ef85eec6e48360705ecb7a1728fe0de2ec17d4982fa455d194dc
-
 🔒 SHA-256 INTEGRITY SUMMARY — LUX MIRROR™ SYSTEM
 Generated: May 14, 2025
 Timestamp: 8:00am PST
@@ -218,3 +215,10 @@ Any unauthorized attempt to mimic, deploy, reverse-engineer, or misuse this syst
 
 totalsystemlicensev2.txt 256 SHA Hashing: a39fb9e7814827e019fa5c5723a7dbebc934e4babfa4015d541b5b4f55a92318
 
+
+Initial TimestampReadme.txt SHA - 256:
+96d776fc4b39ef85eec6e48360705ecb7a1728fe0de2ec17d4982fa455d194dc
+
+Updated Final Hashing + Timestamp June 9 2025 5:15pm PST
+TimestampREADME.txt
+f5a7d42a9a3025708af9243945492c30690ef87810f83fb1e6b7762b68ff0a7b

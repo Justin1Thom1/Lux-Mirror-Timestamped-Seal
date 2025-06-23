@@ -118,7 +118,8 @@ Blockchain’s commitment to immutability and trust cannot be fulfilled without 
 Status & Contact
 Architecture sealed (SHA‑256 timestamped, public record: May 14, 2025).
 
-README & license under Total System License (TSL) — not open-source.
+README & license under Total System License (TSL) and relevant version as identified in the TimestampREADME.txt
+  — not open-source.
 
 Code ready, release pending alignment with strategic partners.
 
@@ -137,6 +138,9 @@ Copyright Case #: 1-14908775681, 1-14908645421
 
 SHA-256 BytecodeLevelSeal.txt + Timestamp June 23 9:36 AM PST
 43235e64b86c25fa6e13c7a3691955afc6755b5265c8750345db9207d32c830b
+
+Updated: SHA-256 BytecodeLevelSeal.txt June 23 9:45am PST
+6a438cc741413c51b80f81c2615586b5992769938adc492fb3efc15359e66c1e 
 
 Updated Final Hashing + Timestamp June 9, 2025 5:15 PM PST
 TimestampREADME.txt

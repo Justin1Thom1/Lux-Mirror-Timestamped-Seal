@@ -140,3 +140,41 @@ Next Steps:
 1. **Generate the SHA-256 hash for genesis1v2.txt**:  
    - Use the `shasum -a 256 genesis1v2.txt` command to generate the hash for genesis1v2.txt.  
    - This new hash will act as the final anchor, linking the previous documents and providing verification for future use.
+
+
+For Clarification:
+
+Incorporate fully:
+Author: Justin Thomas  
+Date of Seal: April 19, 2025  
+
+SHA-256 Hash (of this file):  
+8deaf61e65c54c013c29f0181e8de8aa7de12f3631c72d1b422d32bb64dc9b5f  
+
+Lux Mirror™ — Genesis Root Hash Declaration
+
+File Name: genesis1.txt  
+Parent File: GENERAL.md  
+Parent SHA-256: e5ef124f85312f6b684772397fa4c27bcfd0c8aa258bc4e7a7e83d05c6b5a225  
+
+Author: Justin Thomas  
+Date of Seal: April 19, 2025  
+
+SHA-256 Hash (of this file):  
+8deaf61e65c54c013c29f0181e8de8aa7de12f3631c72d1b422d32bb64dc9b5f  
+
+Declaration:  
+This document represents the immutable hash signature of the genesis architecture for Lux Mirror™.  
+It anchors authorship, origin, and sealed symbolic intent—ensuring tamper-evident integrity through SHA-256 verification.
+
+Any divergence from the above parent hash shall be interpreted as either:
+
+• A formally branched mirror, sealed with its own lineage hash and timestamp, or  
+• An unauthorized alteration, subject to dispute under applicable authorship and integrity statutes.
+
+This file exists as a reflective seal. It does not execute code—it preserves meaning.
+
+This signature binds intention.
+
+—End of Seal—
+

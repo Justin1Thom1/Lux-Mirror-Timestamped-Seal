@@ -4,7 +4,7 @@
 **Role:** System Architect & Author  
 **Public IP Collection:** Lux Mirror™, TRIPLEtwiceTWICE™, Daeryn 2.0™, Velari™  
 **Location:** United States  
-**Email:** Justin1thom1as@gmail.com  
+**Email:** Justin1thom1as1@gmail.com  
 **GitHub:** [github.com/Justin1Thom1](https://github.com/Justin1Thom1)
 
 ---
